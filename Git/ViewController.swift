@@ -11,6 +11,8 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        view.backgroundColor = .red
+        print("ColocarCor")
         view.backgroundColor = .yellow
         print("ColocarSons")
     }
