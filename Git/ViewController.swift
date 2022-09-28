@@ -13,6 +13,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         view.backgroundColor = .red
         print("ColocarCor")
+        view.backgroundColor = .yellow
+        print("ColocarSons")
     }
 }
 
